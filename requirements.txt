@@ -5,3 +5,4 @@ streamlit==1.17.0
 streamlit_option_menu
 streamlit_lottie
 pyproj
+openpyxl
