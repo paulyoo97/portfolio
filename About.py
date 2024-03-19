@@ -97,8 +97,8 @@ with st.container():
         st.write(
             """
             ##### Manufacturing Engineering
-            - Coordinate Measuring Machine
             - Fused Deposition Modeling (FDM) 3D Printing
+            - Coordinate Measuring Machine
             - Drill Press
             - Milling
             - Lathe
