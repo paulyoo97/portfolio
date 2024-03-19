@@ -28,7 +28,7 @@ with st.container():
     st.title("An Operations Engineer currently working in the IT industry")
     st.write(
         """
-        *I'm passionate about utilizing python to automate processes, transform data, and find insights.*        
+        *I'm passionate about mechanical engineering and data analytics.*        
         """)
 
 
@@ -45,9 +45,6 @@ with st.container():
             - Create and manage automated processes using Python
             - Provide Data Management as a Service utilizing CommVault and Acronis Cloud Backup
             - Offer technical support and server deployment for clients in collaboration with the Infrastructure, Operations, and Project Management Teams
-            \n
-            Check out Andorix Inc. in the following link below: \n
-            [Andorix Inc.](https://www.andorix.com/)
             """
         )
     with right:
@@ -61,9 +58,8 @@ with st.container():
         """
         #### University of Waterloo
         *Data Science Certificate* || Present \n
-        - **Courses:** Foundations of Data Science
+        - **Courses:** Foundations of Data Science, Statistics
         """)
-    st.write("")
     st.write(
         """
         #### McMaster University \n
@@ -95,22 +91,31 @@ with st.container():
             - Autodesk Inventor
             - Autodesk Fusion 360
             - AutoCAD
-            - MATLAB
-            - Microsoft Excel
             """
         )
     with middle:
         st.write(
             """
+            ##### Manufacturing Engineering
+            - Coordinate Measuring Machine
+            - Fused Deposition Modeling
+            - Drill Press
+            - Milling
+            - Lathe
+            """
+        )
+
+    with right:
+        st.write(
+            """
             ##### Data Analytics
             - Python
-            - Jupyter Notebooks
-            - API
             - MATLAB
             - SQL
             - Statistics
             - ETL & ELT
             - Machine Learning
+            - Microsoft Excel
             - Spreedsheets
             - Minitab
             """
