@@ -22,7 +22,7 @@ with st.container():
                 """)
         with how:
             st.write("#### How")
-            st.image(Image.open('pages/sample specimen.png').resize((200,355)),caption="Sample specimen before final design.",use_column_width='auto')
+            st.image(Image.open('pages/sample specimen.png').resize((200,400)),caption="Sample specimen before final design.",use_column_width='auto')
             st.write(
                 """
                 - Used **Autodesk Fusion 360** to create prototypes and final design
