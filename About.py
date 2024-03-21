@@ -64,7 +64,7 @@ with st.container():
         """
         #### McMaster University \n
         *Bachelor of Engineering, Mechanical Engineering Co-op* || 2022 \n
-        - **Final Year GPA:** 3.3 out of 4.0
+        - **Final Year GPA:** 3.4 out of 4.0
         - **Mechanical Engineering Courses:** Robotics, Control Systems, Mechanical Vibration, Finite Element Analysis, Computer-Aided Design, Fluid Mechanics, Product Development
         - **Mathematics Courses:** Mathematical Modelling, Differential Equations, Vector Calculus, Probability and Statistics for Engineers, Linear Algebra
         """)
