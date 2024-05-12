@@ -28,7 +28,7 @@ with st.container():
     st.title("An Operations Engineer currently working in the IT industry")
     st.write(
         """
-        *I'm interested in robotics, mechanical engineering, and data analytics.*        
+        *I'm interested in mechanical engineering, mechatronics, and data analytics.*        
         """)
 
 
